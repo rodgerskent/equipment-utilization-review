@@ -1,5 +1,8 @@
 ## Project Overview
 Utilized Tableau to complete a business review of the Jersey City ‘citibike’ program from 2018 to 2020. Key analyst actions included:
+* []()Consolidated 36 monthly csv files into one dataset using the union function
+* []()
+* []()
 •	Consolidated 36 monthly csv files into one dataset using the union function
 •	Built and analyzed a number of business elements landing on 10 key insights
 •	Built a four-page business review presentation using four (4) “Dashboards”
