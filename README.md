@@ -1,18 +1,16 @@
-<!-- ABOUT THE PROJECT -->
 ## Project Overview
+Utilized Tableau to complete a business review of the Jersey City ‘citibike’ program from 2018 to 2020. Key analyst actions included:
+•	Consolidated 36 monthly csv files into one dataset using the union function
+•	Built and analyzed a number of business elements landing on 10 key insights
+•	Built a four-page business review presentation using four (4) “Dashboards”
+•	Built a “Story” stepping through ten (10) key insights 
+•	Built two interactive maps showing bike station usage by year or via a time ‘slider’
+•	Deployed both the Tableau “Story” and “Dashboards” via Tableau Public
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`github_username`, `repo_name`, `twitter_handle`, `email`, `project_title`, `project_description`
-
-<!-- GETTING STARTED -->
 ## See It Here
+TThe “Story” and “Dashboard” can be viewed on Tableau Public at public.tableau.com/profile/kent.rodgers#!/
 
-To get a local copy up and running follow these simple steps.
-
-### Built With
+## Built With
 
 * []()
 * []()
