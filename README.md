@@ -17,4 +17,4 @@ The following key insights were brought to life in the assessment.
 * []()The ‘citibike’ program has a significant commuter client base. Weekday bike usage patterns show that many trips end at the New Jersey PATH stations (rail stations) in the morning and originate again from the PATH stations in the evening. This is a clear sign that riders are using the bikes to move between home and the rail stations as part of their commute. 
 
 ## Reference Items & Datasource
-The data utilized for the project are located at: [https://www.citibikenyc.com/system-data](https://www.citibikenyc.com/system-data)
+The datasets utilized for the project are located at: [https://www.citibikenyc.com/system-data](https://www.citibikenyc.com/system-data)
