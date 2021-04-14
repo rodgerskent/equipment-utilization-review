@@ -7,7 +7,7 @@ Utilized Tableau to complete a business review of the Jersey City ‘citibike’
 * []()Built two interactive maps showing bike station usage by year or via a time ‘slider’
 * []()Deployed both the Tableau “Story” and “Dashboards” via Tableau Public
 
-![Overview](https://github.com/rodgerskent/us-hospital-profitability/blob/main/overviewimage.jpg?raw=true)
+![Dashboard Example](https://github.com/rodgerskent/equipment-utilization-review/blob/main/dashboardexample.jpg?raw=true)
 
 ## See The Story & Dashboards Here
 The Tableau “Story” and “Dashboards” can be viewed on Tableau Public at the following link: [https://public.tableau.com/profile/kent.rodgers#!/](https://public.tableau.com/profile/kent.rodgers#!/)
